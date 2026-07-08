@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0112-path-sum](https://github.com/tbhumang/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/tbhumang/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0112-path-sum](https://github.com/tbhumang/LeetCode-Practice/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/tbhumang/DSA-Arrays/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
