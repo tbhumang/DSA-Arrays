@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/tbhumang/LeetCode-Practice/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -55,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview!!
 | [0119-pascals-triangle-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/tbhumang/LeetCode-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/tbhumang/LeetCode-Practice/tree/master/0140-word-break-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/tbhumang/LeetCode-Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tbhumang/DSA-Arrays/tree/master/0135-candy) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0136-single-number](https://github.com/tbhumang/DSA-Arrays/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0137-single-number-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0095-unique-binary-search-trees-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0125-valid-palindrome) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tbhumang/DSA-Arrays/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
