@@ -135,11 +135,13 @@ A collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tbhumang/DSA-Arrays/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0147-insertion-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tbhumang/DSA-Arrays/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tbhumang/DSA-Arrays/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tbhumang/DSA-Arrays/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!!
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tbhumang/DSA-Arrays/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
@@ -179,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/tbhumang/DSA-Arrays/tree/master/0149-max-points-on-a-line) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/tbhumang/DSA-Arrays/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
